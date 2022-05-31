@@ -34,4 +34,5 @@ System.out.println();
 printPattern(n);  
 }  
 }
-####
+###
+###
