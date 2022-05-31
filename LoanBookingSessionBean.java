@@ -33,4 +33,5 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+####
